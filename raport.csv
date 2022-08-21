@@ -1,0 +1,8 @@
+Fund Name,Isin,Valor,Error reason
+This is Random Name 5,CH1742274,06s261332,Valor can not start with '0',Incorrect Valor Value
+This is Random Name 12,CH9042079, 1382492,Please check if there are spaces or symbols in current valor value
+This is Random Name 26,CH4918268,. 4923608,Incorrect Valor Value
+This is Random Name 38,CH8936743,asdfghj,Incorrect Valor Value
+This is Random Name 41,CH3598478,s1065677,Incorrect Valor Value
+This is Random Name 52,CH6261773,. . .6637241,Incorrect Valor Value
+This is Random Name 63,CH7025740, 3945311,Please check if there are spaces or symbols in current valor value

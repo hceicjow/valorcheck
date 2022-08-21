@@ -1,0 +1,7 @@
+1. Get Switzerland and Liechtenstein domciled funds from LIM
+	-Quick launch
+	-add domcile Switzerland and Liechtenstein
+2. Export to txt, save it as Valordata.csv in the folder where valorchecker is
+3. Run valorchecker
+4. Open raport.csv and vlookup fund owners from lcore
+5. Raport created, you can create pivot table to make data more clear
